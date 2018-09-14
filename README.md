@@ -1,4 +1,4 @@
-# Calculator-Specs
+# Calculator-Dojo
 Basic structure Appium android project
 
 ### Instalando Ambiente no Mac
@@ -71,6 +71,6 @@ gem install bundler
    
 4. Abra o Appium e inicie o servidor do mesmo.
 
-5. Executando os cenários da feature "Multiplicar": 
+5. Executando os cenários da feature "Divisão": 
    cucumber
 ```

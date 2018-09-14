@@ -61,7 +61,7 @@ gem install bundler
 
 ```ruby
 1. Faça um clone do projeto:
-   git clone https://github.com/Thialison/calculator-specs.git
+   git clone https://github.com/Thialison/calculator-dojo.git
 
 2. Acesse a pasta pelo terminal e execute o comando:
    bundle

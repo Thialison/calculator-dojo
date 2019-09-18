@@ -14,8 +14,8 @@ c. Instalando e configurando o rbenv:
    brew install rbenv
    echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
    rbenv install -l
-   rbenv install 2.4.0 #Ou versão superior estável
-   rbenv local 2.4.0
+   rbenv install 2.6.0 #Ou versão superior estável
+   rbenv local 2.6.0
 
 d. Instalar Android Studio
    https://developer.android.com/studio/index.html?hl=pt-br
@@ -61,7 +61,7 @@ gem install bundler
 
 ```ruby
 1. Faça um clone do projeto:
-   git clone https://github.com/Thialison/calculator-dojo.git
+   git clone https://github.com/Thialison/calculator-dojo-appium.git
 
 2. Acesse a pasta pelo terminal e execute o comando:
    bundle
@@ -71,6 +71,6 @@ gem install bundler
    
 4. Abra o Appium e inicie o servidor do mesmo.
 
-5. Executando os cenários da feature "Divisão": 
+5. Executando os cenários da feature "Calcular": 
    cucumber
 ```

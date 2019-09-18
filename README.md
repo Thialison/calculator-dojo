@@ -1,4 +1,4 @@
-# Calculator-Dojo
+# Calculator-Dojo-Appium
 Basic structure Appium android project
 
 ### Instalando Ambiente no Mac
